@@ -1,0 +1,12 @@
+{
+  "name": "iris",
+  "version": "1.0.0",
+  "description": "es6boilerplate",
+  "main": "index.js",
+  "scripts": {
+    //"test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack  --watch"  
+  },
+  "author": "iris",
+  "license": "ISC"
+}
